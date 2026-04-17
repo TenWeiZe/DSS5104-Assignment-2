@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ##Datasets 
 
-Datasets required are included in the folder. Unzip the "data" folder
+The required datasets are in the data folder. Unzip data.zip into the main project folder
 
 #Running the experiments
 
