@@ -11,8 +11,8 @@ pip install -r requirements.txt
 
 ##Datasets 
 
-The required datasets are in the data folder. Unzip data.zip into the main project folder.
-Ensure that the extracted files are inside a data/ directory (i.e., data/adult/ and data/Porto Seguro Safe Driver/). If not, move them into a 'data' folder manually.
+The required datasets are in the data folder. Unzip the data.zip file.
+Ensure that the extracted files are inside a data/ directory (i.e., DSS5104-Assignment-2-main/data/adult/ and DSS5104-Assignment-2-main/data/Porto Seguro Safe Driver/). If not, move them into a 'data' folder manually.
 
 #Running the experiments
 
