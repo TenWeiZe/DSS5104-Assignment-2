@@ -6,6 +6,9 @@ Download the entire "DSS5104_Assignment_2_Submission" Folder using the Green "Co
 
 requirements.txt is provided in the folder.
 
+Run this in the project folder:
+pip install -r requirements.txt
+
 ##Datasets 
 
 Datasets required are included in the folder. Unzip the "data" folder
