@@ -2,7 +2,7 @@ This repository reproduces the experiments reported in the PDF, comparing XGBoos
 
 ##Setup
 
-Download the entire "DSS5104_Assignment_2_Submission" Folder. 
+Download the entire "DSS5104_Assignment_2_Submission" Folder using the Green "Code" button > Download ZIP > Unzip the folder
 
 requirements.txt is provided in the folder.
 
