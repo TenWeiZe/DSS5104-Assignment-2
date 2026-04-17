@@ -1,0 +1,5 @@
+Model,Dataset,Task,RMSE Mean,RMSE Std,MAE Mean,MAE Std,Inference Time (ms/sample),Model Size (KB),Feature Ranking (most to least important)
+TabNet,California Housing,Regression,0.8343524301054462,0.0859507187550211,0.5946728984514872,0.06607796430583926,0.011276829150295998,1681.9306640625,"['Latitude', 'MedInc', 'Longitude', 'HouseAge', 'AveOccup', 'Population', 'AveBedrms', 'AveRooms']"
+FT-Transformer,California Housing,Regression,0.677784900411251,0.01863858188580697,0.4569420004457528,0.006770287631025739,0.04016013108482657,1455.0732421875,"['MedInc', 'Latitude', 'Longitude', 'HouseAge', 'AveOccup', 'AveRooms', 'AveBedrms', 'Population']"
+XGBoost,California Housing,Regression,0.4650238255635113,0.000773055243093564,0.2984441649023099,0.0007296881540267058,0.0013330763624620067,2929.419921875,"['MedInc', 'Longitude', 'AveOccup', 'Latitude', 'AveRooms', 'HouseAge', 'AveBedrms', 'Population']"
+Random Forest,California Housing,Regression,0.5233056160479719,0.0015306688223017699,0.3497971593208166,0.0013530617104848418,0.008856314559315527,40655.2890625,"['MedInc', 'AveOccup', 'Latitude', 'Longitude', 'AveRooms', 'HouseAge', 'AveBedrms', 'Population']"
